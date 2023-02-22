@@ -2,7 +2,7 @@
 //  DeliveryTrackWidget.swift
 //  DeliveryTrackWidget
 //
-//  Created by Batikan Sosun on 13.08.2022.
+//  Created by xsj on 13.08.2022.
 //
 
 import ActivityKit
